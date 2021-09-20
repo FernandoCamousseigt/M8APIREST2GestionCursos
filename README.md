@@ -1,3 +1,4 @@
 # get|post|put|delete|consultas
-name: nombreenpostgres
+en consulta
+user: nombreenpostgres
 password: passwordenpostgres
