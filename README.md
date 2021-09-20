@@ -1,4 +1,4 @@
 # get|post|put|delete|consultas
-en consulta
-user: nombreenpostgres
-password: passwordenpostgres
+para correr: en consulta tienes que poner:
+user: tunombreenpostgres
+password: tupasswordenpostgres
