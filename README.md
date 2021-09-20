@@ -1,1 +1,1 @@
-# M8APIREST2GestionCursos
+# get|post|put|delete|consultas
